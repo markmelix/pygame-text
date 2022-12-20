@@ -1,0 +1,8 @@
+[project]
+name = "pygame-text"
+version = "1.0.0"
+dependencies = ["pygame"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
